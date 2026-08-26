@@ -1,5 +1,8 @@
-Fav =input("fav movie: " )
-Charc = input("fav char: " )
-
-print (Fav)
-print(Charc)
+ENDING = "that movie sucks"
+Movie =input("favorite movie: " )
+Character = input("favorite character: " )
+print("")
+print (Movie)
+print(Character)
+print("")
+print (ENDING)
