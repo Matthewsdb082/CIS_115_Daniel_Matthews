@@ -1,0 +1,7 @@
+CardNum= input("input credit card number: ")
+date= input ("input exsperation date: ")
+Cvv= input ("input cvv: ")
+print("\n")
+print (f"credit card number:{CardNum} ")
+print (f"Date:{date}")
+print (f"Cvv number: {Cvv}")
