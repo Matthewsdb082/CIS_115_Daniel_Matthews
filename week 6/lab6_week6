@@ -1,0 +1,12 @@
+
+def print_iterations(intiger):
+    counter = 0
+    for i in range(intiger):
+        counter += 1
+    return counter
+
+
+    
+intiger = int(input("input intiger "))
+out = print_iterations(intiger)
+print(f" The function call looped {out} times ")
